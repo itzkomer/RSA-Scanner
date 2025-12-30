@@ -1,0 +1,11 @@
+# Python stuff
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Project specific data (Don't upload the keys!)
+vulnerable_keys/
+data/raw_keys/
+data/results/
+.ipynb_checkpoints/
